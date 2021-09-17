@@ -20,9 +20,9 @@ All our repositories are stored on [Github](https://github.com/pancakeswap). Mos
 
 | Project | Github | Website | Stack |
 | :--- | :--- | :--- | :--- |
-| Toolkit | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-toolkit) | [🔗](https://pancakeswap-uikit.netlify.app/) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Frontend | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-frontend) | [🔗](https://pancakeswap.finance/) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Exchange | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-swap-interface) | [🔗](https://exchange.pancakeswap.finance/) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
-| Info | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-info) | [🔗](https://pancakeswap.info/) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/javascript-logo.png) |
-| Voting | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/snapshot-front) | [🔗](https://voting.pancakeswap.finance/) | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Toolkit | [![](../../.gitbook/assets/github-mark-120px-plus.png)](https://github.com/pancakeswap/pancake-toolkit) | [🔗](https://pancakeswap-uikit.netlify.app/) | ![](../../.gitbook/assets/download%20%283%29.svg)![](../../.gitbook/assets/ts-logo-round-128%20%283%29.svg) |
+| Frontend | [![](../../.gitbook/assets/github-mark-120px-plus%20%284%29.png)](https://github.com/pancakeswap/pancake-frontend) | [🔗](https://pancakeswap.finance/) | ![](../../.gitbook/assets/download.svg)![](../../.gitbook/assets/ts-logo-round-128%20%282%29.svg) |
+| Exchange | [![](../../.gitbook/assets/github-mark-120px-plus%20%282%29.png)](https://github.com/pancakeswap/pancake-swap-interface) | [🔗](https://exchange.pancakeswap.finance/) | ![](../../.gitbook/assets/download%20%282%29.svg)![](../../.gitbook/assets/ts-logo-round-128.svg) |
+| Info | [![](../../.gitbook/assets/github-mark-120px-plus%20%281%29.png)](https://github.com/pancakeswap/pancake-info) | [🔗](https://pancakeswap.info/) | ![](../../.gitbook/assets/download%20%281%29.svg)![](../../.gitbook/assets/javascript-logo.png) |
+| Voting | [![](../../.gitbook/assets/github-mark-120px-plus%20%283%29.png)](https://github.com/pancakeswap/snapshot-front) | [🔗](https://voting.pancakeswap.finance/) | ![](../../.gitbook/assets/logo.png) ![](../../.gitbook/assets/ts-logo-round-128%20%281%29.svg) |
 

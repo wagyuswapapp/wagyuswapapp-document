@@ -1,6 +1,6 @@
 # Lottery Contract
 
-## Contract roles: 
+## Contract roles:
 
 | Role | Description |
 | :--- | :--- |
@@ -33,8 +33,6 @@ Address controlled by gnosis multisignature contract with a threshold of 3/6
 
 Address controlled by gnosis multisignature contract with a threshold of 3/6
 
-
-
 ## Functions
 
 ### `injectFunds` - **Injector** and **Owner**
@@ -51,8 +49,6 @@ Address controlled by gnosis multisignature contract with a threshold of 3/6
 ```
 
 The **Injector** or **Owner** can call this function to inject a specific _lotteryId_ with a specified amount of _CAKE_.
-
-
 
 ### `startLottery` - **Operator**
 
@@ -125,8 +121,6 @@ The **Injector** or **Owner** can call this function to inject a specific _lotte
 
 The `startLottery` function is only callable by the **Operator** in order to start a new lottery round.
 
-
-
 ### `closeLottery` - Operator
 
 ```typescript
@@ -145,8 +139,6 @@ function closeLottery(uint256 _lotteryId) external override onlyOperator nonReen
 ```
 
 Callable by the **Operator** to close a round of the lottery.
-
-
 
 ### `drawFinalNumberAndMakeLotteryClaimable` - Operator
 
@@ -229,8 +221,6 @@ function drawFinalNumberAndMakeLotteryClaimable(uint256 _lotteryId, bool _autoIn
 
 For **Operator** to draw the final number using ChainLink VRF function.
 
-
-
 ### `recoverWrongTokens` - Owner
 
 ```typescript
@@ -241,7 +231,6 @@ For **Operator** to draw the final number using ChainLink VRF function.
 
         emit AdminTokenRecovery(_tokenAddress, _tokenAmount);
     }
-
 ```
 
 In the case of tokens other than CAKE mistakenly being sent to the lottery contract, this function is used to recover them and is only callable by the **Owner**
@@ -260,12 +249,9 @@ In the case of tokens other than CAKE mistakenly being sent to the lottery contr
         minPriceTicketInCake = _minPriceTicketInCake;
         maxPriceTicketInCake = _maxPriceTicketInCake;
     }
-
 ```
 
 To prevent the **Operator** setting the tickets to arbitrary prices during the event of a flash crash/pump.
-
-
 
 ### `setMaxNumberTicketsPerBuy` - Owner
 
@@ -277,8 +263,6 @@ function setMaxNumberTicketsPerBuy(uint256 _maxNumberTicketsPerBuy) external onl
 ```
 
 The **Owner** can modify the maximum number of tickets per transaction. This may be modified in the case of BSC block size increasing or decreasing.
-
-
 
 ### `setOperatorAndTreasuryAndInjectorAddresses` - Owner
 
@@ -298,12 +282,9 @@ function setOperatorAndTreasuryAndInjectorAddresses(
 
         emit NewOperatorAndTreasuryAndInjectorAddresses(_operatorAddress, _treasuryAddress, _injectorAddress);
     }
-
 ```
 
 Function used to set the **Operator**, **Treasury**, and **Injector** addresses.
-
-
 
 ### `changeRandomGenerator` - Owner
 

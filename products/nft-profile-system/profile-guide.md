@@ -4,77 +4,68 @@
 
 Create a personalized profile on PancakeSwap to share your personality with the world. Choose a cute bunny NFT for your profile picture, give yourself a unique name, and join an awesome team!
 
-Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.  
-  
+Having your profile created will let you to share your NFT profile picture and achievements with friends, and let you join special PancakeSwap team events.
+
 **This process will cost a total of 1.5 CAKE.**
 
 ![](../../.gitbook/assets/image%20%28170%29.png)
 
 1. Visit **Your Profile** under **Teams & Profile** [here](https://pancakeswap.finance/profile).  
-****
 
 ![](../../.gitbook/assets/image%20%28118%29.png)
 
-2. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
+1. Under “Choose your Starter!”, pick one of the available bunny NFTs you’d like for your profile picture. The NFT will cost you 1 CAKE.
 
 ![](../../.gitbook/assets/image%20%28160%29.png)
 
-For this example we’ll use Dollop.  
-****
+For this example we’ll use Dollop.
 
 ![](../../.gitbook/assets/image%20%2884%29.png)
 
-3. Click **Approve**, then confirm the action in your wallet. Once it's approved, click **Confirm**.
+1. Click **Approve**, then confirm the action in your wallet. Once it's approved, click **Confirm**.
 
 ![](../../.gitbook/assets/image%20%28164%29.png)
 
-  
-****
-
 ![](../../.gitbook/assets/image%20%28102%29.png)
 
-4. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
+1. A new page will load saying “Choose collectible”. We’ll pick our Dollop we chose earlier. If you already own multiple NFTs you can choose one from a list of NFTs you own.
 
 If you face Oops! error, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#oops-we-couldnt-find-any-pancake-collectibles-in-your-wallet).
 
 ![](../../.gitbook/assets/image%20%28144%29.png)
 
-5. Click **Enable**, then confirm the action in your wallet. Once it's approved, click **Next Step**.  
-****
+1. Click **Enable**, then confirm the action in your wallet. Once it's approved, click **Next Step**.  
 
 ![](../../.gitbook/assets/image%20%28151%29.png)
 
 ![](../../.gitbook/assets/image%20%28133%29.png)
 
-6. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Syrup Storm.
-
-7. Click the **Next Step** button.  
-****
+1. On the next page you will be asked to join a team. Joining a team lets you compete in special events to earn special, limited rewards! Choose a team under “Join a Team”. For this example we will choose Syrup Storm.
+2. Click the **Next Step** button.
 
 ![](../../.gitbook/assets/image%20%2895%29.png)
 
-8. Next we will set our profile name. Type your name into the “Enter your name…” field.
+1. Next we will set our profile name. Type your name into the “Enter your name…” field.
 
 ![](../../.gitbook/assets/image%20%28129%29.png)
 
 If you face "username keeps spinning" issue, please check [troubleshooting](https://docs.pancakeswap.finance/help/troubleshooting#checking-username-keeps-spinning).
 
-9. Read the warning in red, and click the “I understand…” checkbox.
+1. Read the warning in red, and click the “I understand…” checkbox.
 
 ![](../../.gitbook/assets/image%20%2852%29.png)
 
-10. Click the **Confirm** button, then confirm the action in your wallet. Once it's confirmed, click the **Complete Profile** button.
+1. Click the **Confirm** button, then confirm the action in your wallet. Once it's confirmed, click the **Complete Profile** button.
 
 ![](../../.gitbook/assets/image%20%2874%29.png)
 
-11. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
+1. You’ll receive a message saying your profile contract will cost you 0.5 CAKE. Click **Enable,** then confirm the action in your wallet. After it's approved, click the **Confirm** button.
 
 ![](../../.gitbook/assets/image%20%28148%29.png)
 
 ![](../../.gitbook/assets/image%20%28161%29.png)
 
-12. After a short wait your new profile will appear. Looking good!  
-****
+1. After a short wait your new profile will appear. Looking good!  
 
 ![](../../.gitbook/assets/image%20%28116%29.png)
 

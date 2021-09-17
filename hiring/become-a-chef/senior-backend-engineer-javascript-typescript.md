@@ -1,13 +1,13 @@
 # Senior Backend Engineer - JavaScript / TypeScript
 
-### **General Information**
+## **General Information**
 
 * Salary range: $120k-160k US Annual salary
 * Position: Full-time
 * Location: Remote
-* Time-zone preference: Any ****
+* Time-zone preference: Any _\*\*_
 
-### **Your Responsibilities**
+## **Your Responsibilities**
 
 * Design, scope, and estimate complex backend products/upgrades
 * Envision and develop features to help grow PancakeSwap
@@ -16,7 +16,7 @@
 * Identify and advocate for team-wide areas of improvement and best practices
 * Regularly maintain and upgrade subgraphs
 
-### **Skills & Qualifications**
+## **Skills & Qualifications**
 
 * Solid experience with GraphQL and subgraphs \(Extremely important\)
 * Ability to write structured and clean code
@@ -26,14 +26,13 @@
 * Experience with smart contracts and Solidity
 * Ability to build and maintain a product at scale
 
-### **Good to have**
+## **Good to have**
 
 * Experience with NoSQL database
 * Experience with WebAssembly
 * Experience with IPFS
 
-### **How to apply**
+## **How to apply**
 
-Email **PancakeSwapHiring@protonmail.com** with your resume  
-
+Email **PancakeSwapHiring@protonmail.com** with your resume
 

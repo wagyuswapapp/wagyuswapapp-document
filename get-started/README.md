@@ -4,15 +4,11 @@
 
 Using anything new can be a bit of a challenge. Don't worry though, we've created a range of guides to help you get comfortable with PancakeSwap!
 
-## Setting up PancakeSwap
+## Setting up WagyuSwap
 
-Follow these guides to get everything set up to use PancakeSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
+Follow these guides to get everything set up to use WagyuSwap, or feel free to jump to the guide you need if you've been doing okay but lost your way.
 
-[Create a Wallet](https://docs.pancakeswap.finance/get-started/wallet-guide)  
-[Get BEP20 Tokens](https://docs.pancakeswap.finance/get-started/bep20-guide)  
-[Connect Your Wallet to PancakeSwap](https://docs.pancakeswap.finance/get-started/connection-guide)
-
-## Guides for using PancakeSwap features
+## Guides for using WagyuSwap features
 
 Once you have a wallet set up and connected to PancakeSwap, feel free to check our other how to guides below.
 

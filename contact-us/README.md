@@ -2,23 +2,17 @@
 
 ![](../.gitbook/assets/docs-masthead-20-.png)
 
-#### 
+### Business Contacts
 
-#### Business Contacts
+## [List a Token](business-partnerships.md#exchange)
 
-### [List a Token](business-partnerships.md#exchange)
+## [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
 
-### [Apply for Yield Farm or Syrup Pool](business-partnerships.md#farms-and-syrup-pools)
+## [Apply for an IFO \(Token Sale\)](business-partnerships.md#ifos-token-sales)
 
-### [Apply for an IFO \(Token Sale\)](business-partnerships.md#ifos-token-sales)
+### Help!
 
-#### 
+## [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
 
-#### Help!
-
-### [Customer Support](customer-support.md#there-is-no-customer-support-for-pancakeswap)
-
-### [Social Communities](telegram.md)
-
-
+## [Social Communities](telegram.md)
 

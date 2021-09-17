@@ -30,7 +30,7 @@ Remember, a lot can change in the remaining time. Many more tickets may be sold.
 
 ## Buying Lottery tickets
 
-‌Buying tickets is easy. 
+‌Buying tickets is easy.
 
 You just need a little CAKE though: each ticket costs approximately $5 USD \(the exact CAKE price is set at the start of the round\).
 
@@ -48,15 +48,15 @@ There is a time between rounds where purchasing tickets isn't possible. Just che
 
 ![](https://lh3.googleusercontent.com/JMN04H2T-oTc0FiC3L5ZMa7Xtfb0xtk58JsJ3CvQyJ8MKI6BNS5iJOCTubfO5KApRuMB_6Un97SQmFRujLJhDNOWT97y4_m3dzkRLD4ovcoNuaBqGhAwKhN_cTOgcEFpYPhG4c_j)
 
-2. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+1. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
 ![](../../.gitbook/assets/image%20%2868%29.png)
 
-3. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+1. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
 The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase \(4.95%\).
 
-4. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
+1. When you're happy with the number of tickets you want to buy, click **Confirm** and confirm your action in your wallet.
 
 ![](../../.gitbook/assets/image%20%2861%29.png)
 {% endtab %}
@@ -72,19 +72,19 @@ There is a time between rounds where purchasing tickets isn't possible. Just che
 
 ![](https://lh6.googleusercontent.com/UwGdWEMdShE5_MfQCn6k8zmuXFIOSNPiihIEPMJzXbZpKRl5yk-deuSDydyo00Z67G0zFhxq_pVnItoLZCKbJTpD8RjTVbDzZZc-NiTc1isn5IAGZTBcXIRl8VyMzG_xNZBE5csi)
 
-2. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
+1. A window will open letting you choose how many ticket to buy. Type how many tickets you'd like to buy into the field. You can also use the preset buttons underneath.
 
-![](../../.gitbook/assets/image%20%2868%29.png)
+![](../../.gitbook/assets/image%20%2868%29%20%281%29.png)
 
-3. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
+1. Before you continue, it's worth considering the bulk purchase discounts. The more tickets you buy, the greater the discount.
 
 The discount starts at 2 tickets, and scales all the way to 100 tickets where you will save almost 5% on your purchase.
 
-4. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
+1. To customize the numbers on your tickets, click the **View/Edit Numbers** button.
 
 ![](../../.gitbook/assets/image%20%2813%29.png)
 
-5. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
+1. A new window will open showing your tickets. Click onto a number for any ticket to change the number in that position.
 
 You can randomize your numbers again by clicking **Randomize**, or go back if you change your mind by clicking **Go back**.
 
@@ -94,7 +94,7 @@ You'll get a warning if you create duplicate tickets. It's possible your duplica
 
 ![](https://lh3.googleusercontent.com/jqaMYUJQWpMIkzonsVvIpz_lUBzLYDSMxFZftLqdxqrzPzcwnpZio-XMw7LFCpOPOgq-tZX8yD5WfW_TATvH1jX0ZTh9WwNm75vezhfpiH5ljXTphkJgg344KdAE0JplkXw-oqjN)
 
-6. When you're happy with your numbers, click the **Confirm and buy** button.
+1. When you're happy with your numbers, click the **Confirm and buy** button.
 
 ![](../../.gitbook/assets/image%20%2831%29.png)
 
@@ -110,7 +110,7 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ![](https://lh4.googleusercontent.com/GSUujMwjqv5c_0UeeVrWmBnyeTiBVfhSiiQd8NZie8tpCC_65c7mGPJfS0O_q72MstJUGeOZ7VWnrGIytwRHowcCGi6Cdgj5flwg06GODRs8Or_3R-rZB1pKcP1pudwtjJBJJBDO)
 
-2. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
+1. A window will open showing all of your tickets and their numbers. It'll also give you the option to buy more tickets if you'd like.
 
 ![](https://lh3.googleusercontent.com/RSA-gQ7e8yY1t8xN8bELLaMaoBZLtSAS8ybDdeiG6Wzv1fbr9SqKheQD3S5kxYFlD9rnZX9dpzXjYTDy-rnsXkuNtrU46msafxAfdsHgsCdPxjOxBtTJN3cCNF6NWYp0Mwdk4SXR)
 
@@ -126,6 +126,5 @@ You can view your tickets after buying them before the round's numbers are drawn
 
 ![](https://lh3.googleusercontent.com/p3QxWcrxCcBwHrhwPU55vnAN-BmelgNwKRWse8yEQQVfehXsIOvUX_tCo1gC7LpHxL-crIMS19RxpnMxn5yBuShNwXfH7qzCSdCOtnBeXhUuecrqRvhdI97rX_CuVuWAawaor6Mi)
 
-2. A window will open showing the winning numbers and all of your tickets and their numbers.  
-
+1. A window will open showing the winning numbers and all of your tickets and their numbers.  
 

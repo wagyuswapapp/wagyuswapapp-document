@@ -1,4 +1,4 @@
-# 🎟 Lottery v2
+# 🎟 Lottery
 
 ![](../../.gitbook/assets/docs-masthead-3-%20%282%29.png)
 

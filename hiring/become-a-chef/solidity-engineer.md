@@ -1,13 +1,13 @@
 # Solidity Engineer
 
-### **General Information**
+## **General Information**
 
 * **Salary range:** $120k - $250k+ US Annual salary
 * **Position:** Full-time
 * **Location:** Remote
 * **Time-zone preference:** Any
 
-### Your Responsibilities
+## Your Responsibilities
 
 * Build smart contracts in Solidity for the Ethereum blockchain
 * Design, scope, and estimate complex contract based on requirements given
@@ -16,7 +16,7 @@
 * Collaborate with cross functional partners on all aspects of product development
 * Identify and advocate for team-wide areas of improvement and best practices
 
-### Skills & Qualifications
+## Skills & Qualifications
 
 * 5+ years of industry experience in software engineering
 * Bachelor’s and/or Master’s degree in CS or equivalent experience
@@ -32,7 +32,7 @@
 * The candidate should be independent enough to make important technical decisions on their own.
 * The candidate should be driven and innovative.
 
-### How to apply:
+## How to apply:
 
 Email **PancakeSwapHiring@protonmail.com** with your resume
 

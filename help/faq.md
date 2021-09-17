@@ -95,8 +95,8 @@ To learn more about voting, you can [read our section on Voting](https://docs.pa
 
 ## What is the max supply of CAKE?
 
-$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.  
-  
+$CAKE does not have a maximum supply. The circulating supply is managed through built-in burning and regular burning events.
+
 Read this to [learn more about PancakeSwap's tokenomics](https://docs.pancakeswap.finance/tokenomics/cake).
 
 ## What are the treasury funds used for?
@@ -128,6 +128,4 @@ SYRUP was a part of the staking process earlier in PancakeSwap's life. SYRUP was
 ## I can't find an answer for my question. Where do I find an answer?
 
 If you can't find what you're looking for in PancakeSwap's documentation, ask your question on [PancakeSwap's official social media platforms](https://docs.pancakeswap.finance/contact-us/telegram) and someone will do their best to help you out.
-
-
 

@@ -2,14 +2,14 @@
 
 ![](../../.gitbook/assets/docs-masthead-6-%20%281%29.png)
 
-Buy new tokens using CAKE-BNB LP tokens. 
+Buy new tokens using CAKE-BNB LP tokens.
 
 The project gets the BNB, PancakeSwap burns the CAKE. **You get the tokens.**
 
 1. **You will need CAKE-BNB LP tokens** to participate.
-2. **CAKE tokens equating to half of the total funds raised will be burned forever**: For example, if the full $1,000,000 USD allocation is raised, then ****$500,000 of CAKE tokens will be burned.
+2. **CAKE tokens equating to half of the total funds raised will be burned forever**: For example, if the full $1,000,000 USD allocation is raised, then _\*\*_$500,000 of CAKE tokens will be burned.
 
-Learn [how to find IFO smart contracts]()
+Learn [how to find IFO smart contracts](./)
 
 ## **How to participate in an IFO**
 
@@ -47,8 +47,6 @@ In the “Overflow” method, users can subscribe as much or as little as they w
 It's possible to receive no tokens at all: If you commit a very small amount of LP tokens compared to the total amount committed by others, your contribution may be such a small part of the total that you may not qualify for even a small portion of the tokens sold.  
 In such a case, you will still be able to reclaim all the CAKE-BNB LP tokens you committed.
 {% endhint %}
-
-
 
 ![Three models of possible outcomes for the Overflow method.](../../.gitbook/assets/image.png)
 

@@ -10,7 +10,7 @@ Check out the steps below for how to connect each of our recommended wallets to 
 
 {% tabs %}
 {% tab title="Trust Wallet" %}
-![](../.gitbook/assets/image%20%2870%29.png)
+![](../.gitbook/assets/image%20%2870%29%20%281%29.png)
 
 To connect Trust Wallet follow the steps below. Note that Android and iOS devices do not use the same steps!
 
@@ -43,11 +43,11 @@ Read the [Trust Wallet guide to connecting to PancakeSwap via WalletConnect](htt
 ## **Resources**
 
 [**Download Trust Wallet**](https://trustwallet.com/) \(Automatically detects device\)  
-****[**Trust Wallet Setup Guide**](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain)\*\*\*\*
+**\*\*\[**Trust Wallet Setup Guide_\*\]\(_[https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain\)\](https://www.binance.com/en/blog/421499824684901157/how-to-set-up-and-use-trust-wallet-for-binance-smart-chain%29\)\*\*\*
 {% endtab %}
 
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%281%29%20%281%29.png)
 
 To connect MetaMask to PancakeSwap follow the steps below.
 
@@ -89,7 +89,7 @@ To connect MetaMask to PancakeSwap follow the steps below.
 ## Resources
 
 [**Download MetaMask**](https://metamask.io/download.html) \(Automatically detects device\)  
-****[**MetaMask Setup Guide**](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain%29)\*\*\*\*
+**\*\*\[**MetaMask Setup Guide_\*\]\(_[https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain%29\)\](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain%29%29\)\*\*\*
 {% endtab %}
 
 {% tab title="Token Pocket" %}
@@ -117,7 +117,7 @@ Token Pocket is a cryptocurrency management app that natively supports many cryp
 {% endtab %}
 
 {% tab title="SafePal" %}
-![](../.gitbook/assets/image%20%2826%29.png)
+![](../.gitbook/assets/image%20%2826%29%20%281%29.png)
 
 SafePal is available as both a software and hardware wallet. The wallet is easy to install and create, and comes ready to support BEP2 \(Binance Chain\) and BEP20 \(Binance Smart Chain\) right away.
 
@@ -145,7 +145,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 
 {% tabs %}
 {% tab title="MetaMask" %}
-![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29.png)
+![](../.gitbook/assets/image%20%2833%29%20%283%29%20%284%29%20%285%29%20%282%29.png)
 
 ## Chrome and Firefox
 
@@ -182,7 +182,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Binance Wallet" %}
-![](../.gitbook/assets/image%20%28126%29.png)
+![](../.gitbook/assets/image%20%28126%29%20%281%29.png)
 
 ## Chrome and Firefox
 
@@ -205,7 +205,7 @@ SafePal is available as both a software and hardware wallet. The wallet is easy 
 {% endtab %}
 
 {% tab title="Token Pocket" %}
-![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29.png)
+![](../.gitbook/assets/image%20%28125%29%20%283%29%20%284%29%20%281%29.png)
 
 ## Desktop Application
 

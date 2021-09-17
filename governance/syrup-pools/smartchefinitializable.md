@@ -24,8 +24,6 @@ This address controlled is by gnosis multisignature contract with a threshold of
 
 In case of an emergency, the **Owner** can withdraw the rewards from a pool contract.
 
-
-
 ### `recoverWrongTokens` - Owner
 
 ```typescript
@@ -40,8 +38,6 @@ In case of an emergency, the **Owner** can withdraw the rewards from a pool cont
 
 Used by the **Owner** to recover tokens other than the `stakedToken` and `rewardToken` in case they are mistakenly sent to the contract.
 
-
-
 ### `stopRewards` - Owner
 
 ```typescript
@@ -51,8 +47,6 @@ Used by the **Owner** to recover tokens other than the `stakedToken` and `reward
 ```
 
 If a pool need stop distributing rewards prior to the intended end of the reward distribution, the **Owner** can call this function.
-
-
 
 ### `updatePoolLimitPerUser` - Owner
 
@@ -70,9 +64,7 @@ function updatePoolLimitPerUser(bool _hasUserLimit, uint256 _poolLimitPerUser) e
     }
 ```
 
-**Owner** can call this function to update the staking limit for each pool. The staking limit can only be increased, never decreased. This ensures that no user ever has more staked than the staking limit. 
-
-
+**Owner** can call this function to update the staking limit for each pool. The staking limit can only be increased, never decreased. This ensures that no user ever has more staked than the staking limit.
 
 ### `UpdateRewardPerBlock` - Owner
 
@@ -84,9 +76,7 @@ function updatePoolLimitPerUser(bool _hasUserLimit, uint256 _poolLimitPerUser) e
     }
 ```
 
-Can be called by the **Owner**, but only prior to the start of the pool. This cannot be modified once the pool has begun. 
-
-
+Can be called by the **Owner**, but only prior to the start of the pool. This cannot be modified once the pool has begun.
 
 ### `updateStartAndEndBlocks` - Owner
 
@@ -108,8 +98,6 @@ Can be called by the **Owner**, but only prior to the start of the pool. This ca
 
 Can be called by the **Owner**, but only prior to the start of the pool. This cannot be modified once the pool has begun.
 
-
-
 ### `transferOwnership` - Owner
 
 ```typescript
@@ -117,5 +105,5 @@ Can be called by the **Owner**, but only prior to the start of the pool. This ca
     }
 ```
 
-If the **Owner** needs to change the ownership of the contract, they can call this function. 
+If the **Owner** needs to change the ownership of the contract, they can call this function.
 

@@ -12,23 +12,23 @@ Before you can join an IFO there are a few things you will need to do to get rea
 
 ### Create your PancakeSwap profile
 
-To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.  
-  
+To take part in an IFO, you'll need a PancakeSwap profile. Having a profile protects the security of the IFO and makes it fair for everyone. The small cost of a profile also helps keep the total CAKE supply down by burning a little CAKE from each profile created.
+
 To create a profile, you can follow our How to Set Up an NFT Profile guide [here](https://docs.pancakeswap.finance/get-started/profile-guide).
 
 ### Get CAKE-BNB Liquidity Tokens
 
-Once you have a profile, you will also need to provide liquidity to get some CAKE-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.  
-  
+Once you have a profile, you will also need to provide liquidity to get some CAKE-BNB LP Tokens. These will be used to buy the tokens being offered in the IFO.
+
 To provide liquidity and get some CAKE-BNB LP Tokens, you can follow our How to Add/Remove Liquidity guide [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
 
 ### Check on your progress
 
-Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.  
-  
-****![](https://lh5.googleusercontent.com/7Bh78UrDgqLpgsIjtAuX8UFkd8aG7-J3gsp36xGsCG0kPrkYckmy6UgTKQZfUJEkIMccixBdrhVUVmv2kJfnVGq9Vljb_AXetLk89YzBIiSBPSGaIA-v2vRImzvNrFOnJWQWle-S)  
-  
-****You should see your progress at step 3, Commit LP Tokens, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher in this page.
+Once you’ve followed the steps above, go back to the IFO page [here](https://pancakeswap.finance/ifo). Scroll down to the colored ‘How to Take Part’ section.
+
+_\*\*_![](https://lh5.googleusercontent.com/7Bh78UrDgqLpgsIjtAuX8UFkd8aG7-J3gsp36xGsCG0kPrkYckmy6UgTKQZfUJEkIMccixBdrhVUVmv2kJfnVGq9Vljb_AXetLk89YzBIiSBPSGaIA-v2vRImzvNrFOnJWQWle-S)
+
+_\*\*_You should see your progress at step 3, Commit LP Tokens, like in the picture above. If for some reason you aren’t at step 3, go back through the guides linked up higher in this page.
 
 And that’s it; you’re now ready to participate in an IFO when it goes live!
 
@@ -80,13 +80,13 @@ You can buy tokens from both sales, but the Basic Sale is limited. If you only w
 
 ![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D_sn_lmDfJB8WeH4fkH_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
 
-2. In the new window, type your amount of LP Tokens into the field.
+1. In the new window, type your amount of LP Tokens into the field.
 
 ![](https://lh5.googleusercontent.com/yzrcq53uIbk2EoVqXXDyAWlVAp998_IAhCCQMlxi0fh8dI15hBcJNls2oO4SckaPtmmaNFatWJm4f9BOUH-fhIf6KsaQv3h32nqPmAroVBEY3SedB0WVTep9B88Za_Ez6ZVRu6eK)
 
 Remember, the Basic Sale has a limit of about $100 USD. Any LP Tokens you cannot spend on new tokens will be returned to you, so you don’t need to worry about losing any tokens.
 
-3. Click the **Confirm** button and confirm the action with your wallet. Once your LP Tokens are committed, the Basic Sale section will show your committed amount under “Your LP Tokens Committed”.
+1. Click the **Confirm** button and confirm the action with your wallet. Once your LP Tokens are committed, the Basic Sale section will show your committed amount under “Your LP Tokens Committed”.
 
 ![](https://lh5.googleusercontent.com/LL-9EVpUQlDIbIrZzwmgfYpRHpq1AolDhML9rZGSafBhM_7GfV-sw9ZQqL4Tn4j6JIyTGxkU-K7S2Z23WItu_GafnSZHb3fI9hzlwGKTS17aLOZdrU5iHfXvedBzaI-Q8weHSF6Q)
 
@@ -100,13 +100,13 @@ If you don’t want to commit more LP Tokens to the IFO, you can skip ahead to t
 
 ![](https://lh6.googleusercontent.com/RsQaoFoDpcE1YJgCp4KXRYG5zea1XRm-7pPqQpxA97i7D_sn_lmDfJB8WeH4fkH_2Gs76mnJq2xKVfuQKGaDZGLIXTxru8wYP2Yykmc1V4S8QCZGnZ9-FpudtcD2Jt1kMTsd7g2h)
 
-2. In the new window, type your amount of LP Tokens into the field.
+1. In the new window, type your amount of LP Tokens into the field.
 
 ![](https://lh6.googleusercontent.com/LFn-zETI5pwPko-YmsaAK8nH7U3YGhFJXuiDONWeUh6lw0cCH1xPf6wOSbxy-dzd0DEjz-AtxcnzXyuft8U9RdbgXzNNlAfYaoNvl4XqaTr2d8JoPLUaijKkjdSQvQEYMiYSmqhD)
 
 There is no limit to the LP Tokens you can commit to the Unlimited Sale. Even so, if you add more than you are able to spend on new tokens, your extra LP Tokens will be returned to you. You don’t need to worry about losing any tokens.
 
-3. Click the **Confirm** button and confirm the action with your wallet. Once your LP Tokens are committed, the Unlimited Sale section will show your committed amount under “Your LP Tokens Committed”.
+1. Click the **Confirm** button and confirm the action with your wallet. Once your LP Tokens are committed, the Unlimited Sale section will show your committed amount under “Your LP Tokens Committed”.
 
 ![](https://lh3.googleusercontent.com/1k5gjysitCJPDNFXFYJXrFHVGHIEPvfVrSe_Aa0JuRx3D6txXJgjJFO9-or6E-1yeXacfclpGpiUm8ckDcm2ETWGpOTqtK8tT95rVT0UHlvcoYB54Gwapp3mRkz6yg69vg25qWwx)
 
@@ -130,6 +130,5 @@ Now that you've got your shiny new tokens, you can put them to work for you!
 
 You can add liquidity for your token to receive LP Tokens. Your LP Tokens will let you collect trading fees for your pair. Read about adding liquidity [here](https://docs.pancakeswap.finance/get-started/liquidity-guide).
 
-If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).  
-
+If you've added liquidity for your new token, you can also use your new LP Tokens to yield farm and earn more rewards! Read about farming [here](https://docs.pancakeswap.finance/products/yield-farming/farms).
 

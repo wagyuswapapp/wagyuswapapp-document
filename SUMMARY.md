@@ -1,6 +1,6 @@
 # Table of contents
 
-* [PancakeSwap Intro](README.md)
+* [WagyuSwap Intro](README.md)
 * [Get Started](get-started/README.md)
   * [Create a Wallet](get-started/wallet-guide.md)
   * [Get BEP20 Tokens](get-started/bep20-guide.md)
@@ -30,7 +30,7 @@
   * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
   * [Auto CAKE Syrup Pool](products/syrup-pool/auto-compounding.md)
   * [Syrup Pool FAQ & Troubleshooting](products/syrup-pool/syrup-pool-faq.md)
-* [🎟 Lottery v2](products/lottery/README.md)
+* [🎟 Lottery](products/lottery/README.md)
   * [How to Play Lottery v2](products/lottery/lottery-guide.md)
   * [Lottery FAQ](products/lottery/lottery-faq.md)
 * [🔮 Prediction](products/prediction/README.md)

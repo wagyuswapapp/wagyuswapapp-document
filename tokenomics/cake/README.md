@@ -28,7 +28,5 @@ Check below to discover the nuts and bolts of how CAKE works.
 
 {% page-ref page="controlling-cake-supply.md" %}
 
-
-
 ### \*\*\*\*
 

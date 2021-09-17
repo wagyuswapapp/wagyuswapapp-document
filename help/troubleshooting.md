@@ -156,7 +156,7 @@ Please select "Receive WBNB" and retry.
 
 **If you got this error while trying to swap:**
 
-Please contact the project team of the token you're trying to swap. ****This issue must be resolved by the project team.
+Please contact the project team of the token you're trying to swap. _\*\*_This issue must be resolved by the project team.
 {% endtab %}
 
 {% tab title="Reason" %}
@@ -378,14 +378,14 @@ Cause unclear. Try these steps before trying again:
 
 ## **Issues with Profile**
 
-### Oops! We couldn't find any Pancake Collectibles in your wallet. 
+### Oops! We couldn't find any Pancake Collectibles in your wallet.
 
 We're investigating the logic behind this issue. Meanwhile please try the workaround.
 
 {% tabs %}
 {% tab title="Workaround 1" %}
-1.  Go to “Collectible” page, then come back to profile page. If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
-2.  Retry profile creation.
+1. Go to “Collectible” page, then come back to profile page. If you can’t find the link, go to [https://pancakeswap.finance/collectibles](https://pancakeswap.finance/collectibles) directly.
+2. Retry profile creation.
 {% endtab %}
 
 {% tab title="Workaround 2" %}
@@ -404,11 +404,9 @@ This is considered as network relevant issue.
 
 {% tabs %}
 {% tab title="Solution" %}
-1.  Delete whatever has been entered in the text field completely. 
-2.  Re-type username, then please wait for seconds.
-3.  If it doesn’t work, reload the page and retry again.
+1. Delete whatever has been entered in the text field completely. 
+2. Re-type username, then please wait for seconds.
+3. If it doesn’t work, reload the page and retry again.
 {% endtab %}
 {% endtabs %}
-
- 
 

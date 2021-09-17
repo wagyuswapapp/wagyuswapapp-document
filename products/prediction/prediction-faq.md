@@ -49,7 +49,7 @@ To reclaim funds, you’ll need to pay some gas fees. We can’t compensate you 
 
 ### **What happens if no one enters an opposing position?**
 
-If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury. 
+If only one side of a round has positions entered into it, then that side loses, the losing funds will be sent to the treasury.
 
 For example: User A enters an UP position, no one else enters a DOWN position. User A loses, and there are no opposing positions for the winnings to be paid out to. Funds are sent to treasury.
 
@@ -59,7 +59,7 @@ In the very rare occurrence that the Locked Price is exactly the same as the Clo
 
 ### **Can I change or remove my position?**
 
-No. Once you enter a position, you can NOT change the directtion, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming. 
+No. Once you enter a position, you can NOT change the directtion, add to, or remove your position. It's locked in, so make sure you're 100% happy with your position direction before confirming.
 
 ## General Questions
 
