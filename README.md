@@ -1,82 +1,52 @@
-# WagyuSwap Intro
+---
+description: Grab your prime cut of the next generation of decentralized exchanges.
+---
+
+# Welcome to WagyuSwap
 
 ![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
 
 {% hint style="success" %}
-#### WagyuSwap helps you make the most out of your crypto in three ways:
-
-#### Trade, Earn, and Win.
+#### With WagyuSwap you can trade, stake, and farm tokens with all the _accoutrements_ you've come to expect from a top DeFi platform.
 {% endhint %}
 
-## ↔️ Trade
+## Swap
 
-> Instantly swap crypto tokens: no registration or account needed.
+> Instantly trade your cryptoassets without having to create an account or go through any cumbersome KYC procedures.
 
-### The people's choice
+### The First DEX on the Fastest Chain
 
-WagyuSwap is the leading decentralized exchange on Velas Chain, with the highest trading volumes in the market \(sources: [1](https://www.coingecko.com/en/exchanges/decentralized) [2](https://coinmarketcap.com/rankings/exchanges/dex/)\).
+WagyuSwap is the leading decentralized exchange on the Velas Chain, which has been clocked as the fastest blockchain in the world.
 
-### Low fees
+### Fees so low they couldn't get on a ride at an amusement park
 
-Why pay more? WagyuSwap runs on Velas Chain, a blockchain with much lower transaction costs than Ethereum or Bitcoin.  
-Trading fees are lower than other top decentralized exchanges too, so that's a double win for you!
+WagyuSwap runs on Velas Chain, a blockchain with much lower transaction costs than both Ethereum, Bitcoin and the Binance Smart Chain. 
 
-### Decentralized
+Why pay higher fees for slower transactions? 
 
-Trade directly from your wallet app.  
-Unlike centralized exchanges like Binance or Coinbase, PancakeSwap doesn’t hold your funds when you trade: **you have 100% ownership of your own crypto**.
+### Fully Decentralized and Non-custodial
 
-## 💸 Earn
+Unlike all the known CeFi platforms and exchanges like Binance or Coinbase, WagyuSwap stays out of your private life and lets you keep you full control of your assets.
 
-> Earn WAG and other tokens for free with super high interest rates.
+## Earn Your $WAG 
 
-### Earn tokens with Syrup Pools
+> Earn $WAG and other tokens by letting your crypto go to work for you with our sky high interest rates that are sure to leave your mouth watering.
 
-Stake WAG, earn free tokens. It’s really that easy.  
-WAG holders right now are earning tens of millions of USD worth of free tokens each week from major projects. New projects join the party every day, so you can earn more, for even longer.
+### Stake $WAG to earn free tokens.
 
-### Earn WAG with Yield Farms
+$WAG holders can stake their tokens for free to earn millions of dollars' worth of tokens every week from the top projects on Velas Chain. We keep adding new projects to our illustrious menu, so you can monetize your $WAG in an ever-growing number of ways.
 
-Stake LP tokens, earn WAG. You take on a little more exposure to market fluctuations than with the Syrup Pools, but can earn higher APR to offset the risk.
+### Farm $WAG with our Yield Farms
+
+It's easy: you add liquidity, and stake Liquidity Pools \(LPs\) tokens, and in return you'll earn $WAG. In exchange for becoming more exposed to market fluctuations, you can earn higher APR to offset the risk.
 
 ### Earn Trading Fees
 
-No farm? No problem. Even if your trading pair isn’t supported on the Farms page, you can still earn trading fees when you stake your tokens in Liquidity Pools \(LPs\).
-
-## 🎲 Win
-
-> PancakeSwap makes making money fun.
-
-### Lottery
-
-**Millions of dollars** regularly go up for grabs on the PancakeSwap Lottery.  
-Join as many as **11,000 daily players** for your chance to win big!
-
-### NFT Collectibles
-
-Win collectible NFTs for participating in trading competitions and more fun & games.
-
-### Prediction
-
-Win BNB if you can predict whether the BNB price will rise or fall.  
-New rounds every 5 minutes!
+If your preferred trading pairs aren't supported on WagyuSwap Farms, you can still earn trading fees by staking your tokens in Liquidity Pools \(LPs\).
 
 ## Is WagyuSwap safe?
 
-See for yourself:
+Yes and we'll soon have the receipts to prove it as we're currently being audited by [Solidity.finance](https://solidity.finance/).
 
-* Check out these WagyuSwap security audits: 
-  * [Certik’s security audit of PancakeSwap](https://www.certik.org/projects/pancakeswap) and [Certik's Shield insurance](https://shield.certik.foundation/)
-  * [Slowmist's security audit of PancakeSwap](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20%20-%20PancakeSwap.pdf)
-  * [Slowmist's Auto-CAKE Pool security audit](https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20CakeVault.pdf)
-  * [Peckshield's Prediction V2 security audit](https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-PancakeSwap-PredictionV2-v1.0.pdf)
-* Transparent:
-  * We’re built on open-source software: our site and all our Smart Contracts are publicly visible for maximum transparency. 
-  * Our contracts are verified on Velas so you know that what you see is what you get: [1](https://bscscan.com/address/0x10ED43C718714eb63d5aA57B78B54704E256024E) [2](https://bscscan.com/address/0x73feaa1ee314f8c655e354234017be2193c9e24e#code) [3](https://bscscan.com/address/0xbcfccbde45ce874adcb698cc183debcf17952812) [4](https://bscscan.com/address/0x1b96b92314c44b159149f7e0303511fb2fc4774f#code) [5](https://bscscan.com/address/0x92E8CeB7eAeD69fB6E4d9dA43F605D2610214E68) 
-* Security best practices:
-  * The chefs use multisig for all contracts.
-  * Our contracts’ time-locks give you peace of mind.
-
-**Sounds like fun?  
-Then get flipping!** 🥞
+**Ready to get started? Let's see what our chefs are cooking.** 🥩 
 
