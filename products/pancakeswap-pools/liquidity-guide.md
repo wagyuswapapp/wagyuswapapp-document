@@ -1,12 +1,8 @@
-# How to Add/Remove Liquidity
+# How to Add & Remove Liquidity
 
 ![](../../.gitbook/assets/docs-masthead-2-.png)
 
-"Liquidity" is central to how PancakeSwap's Exchange works. You can add liquidity for any token pair by staking both through the Liquidity page.
-
-In return for adding liquidity, you'll receive trading fees for that pair, and receive LP Tokens you can [stake in Farms](https://docs.pancakeswap.finance/products/yield-farming/farms) to earn CAKE rewards!
-
-## **Adding liquidity**
+**How to add liquidity**
 
 To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value \(in USD\) of the two tokens will be the limit to the liquidity you can provide.
 

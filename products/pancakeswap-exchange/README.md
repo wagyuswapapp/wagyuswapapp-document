@@ -1,4 +1,4 @@
-# WagyuSwap Exchange
+# 🔁 WagyuSwap Exchange
 
 ![](../../.gitbook/assets/docs-masthead-19-.png)
 
