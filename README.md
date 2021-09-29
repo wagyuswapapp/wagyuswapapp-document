@@ -46,7 +46,7 @@ If your preferred trading pairs aren't supported on WagyuSwap Farms, you can sti
 
 ## Is WagyuSwap safe?
 
-Yes and we'll soon have the receipts to prove it as we're currently being audited by [Solidity.finance](https://solidity.finance/).
+Yes. And we have the receipts to prove it, courtesy of our [audit by Solidity Finance.](https://solidity.finance/audits/Wagyu/)
 
 **Ready to get started? Let's see what our chefs are cooking.** 🥩 
 
