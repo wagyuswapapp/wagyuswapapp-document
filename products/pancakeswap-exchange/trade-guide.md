@@ -2,42 +2,35 @@
 
 ![](../../.gitbook/assets/docs-masthead-5-.png)
 
-Trading on PancakeSwap is very easy compared to most exchanges. You aren't going to be overwhelmed by charts or jargon, and calculations are all handled for you.
-
 ## Getting set up to trade
 
-Before you can trade, you will need a Binance Smart Chain-compatible wallet. You can learn how to get one [here](https://docs.pancakeswap.finance/get-started/wallet-guide). You will also need to have some BEP20 tokens to trade with. You can learn how to get some [here](https://docs.pancakeswap.finance/get-started/bep20-guide).
+Before you can trade, you will need a wallet that is compatible with Velas \(click [here](https://tokenmagic.app/#/) and add "Velas"\) and VEP20 tokens.
 
-## Trading on the PancakeSwap exchange
+## Trading on the WagyuSwap exchange
 
-1. Go to the exchange page [here](https://exchange.pancakeswap.finance/#/swap).
-2. Unlock your Binance Smart Chain-compatible wallet by clicking **Unlock Wallet** \(you can also **Connect** in the top right-hand corner\). If you haven't yet connected your wallet to PancakeSwap, you can view the guide to [here](https://docs.pancakeswap.finance/get-started/connection-guide).
+Go to the Exchange Page and click Unlock Wallet and make sure you're on the Velas network. 
 
-![](../../.gitbook/assets/image%20%28155%29.png)
+![](../../.gitbook/assets/screenshot-2021-09-29-at-18.09.37.png)
 
-1. Choose the token you want to trade from the dropdown menu in the "From" section. The default setting is BNB.
+Click on the dropdown menu in the "From" section to choose the token you want to trade, after ensuring it's one of the tokens you actually hold.
 
-![](../../.gitbook/assets/image%20%28110%29.png)
+![](../../.gitbook/assets/screenshot-2021-09-29-at-18.13.50.png)
 
-Whichever token you choose, you will need to make sure you have some to trade with. Your balance is shown above the token dropdown menu.
+Use the "To" field to determine the token you want to trade to and type in the desired amount. This is about as easy as boiling an egg, folks.
 
-1. Choose the token you want to trade to in the "To" section as above. Next, type an amount for your "To" currency by clicking inside the input box.
+![](../../.gitbook/assets/screenshot-2021-09-29-at-18.16.23.png)
 
-![](../../.gitbook/assets/image%20%283%29.png)
+The token amount in the "From" section is then estimated automatically, and vice-versa. 
 
-Your "From" currency amount will be estimated automatically. You can also type your "From" amount and have the "To" amount estimate automatically if you like.
+After making sure you're happy with the numbers, click the **Swap** button. 
 
-1. Check the details, and click the **Swap** button.
+![](../../.gitbook/assets/screenshot-2021-09-29-at-18.19.20.png)
 
-![](../../.gitbook/assets/image%20%2863%29.png)
+A new window with more detailed information will pop up. Once again, check if you're happy that the details are correct and click the Confirm Swap button. At this point, your wallet will require you to confirm the action.
 
-1. A window with more details will appear. Check the details are correct.
+![](../../.gitbook/assets/screenshot-2021-09-29-at-18.21.10.png)
 
-![](../../.gitbook/assets/image%20%2858%29.png)
+_Et voilá!_ 
 
-When you are ready, click the **Confirm Swap** button. Your wallet will ask you to confirm the action.
-
-1. Done! You can click **View on BscScan** to see your transaction details on the explorer.
-
-![](../../.gitbook/assets/image%20%2823%29.png)
+You are done!
 

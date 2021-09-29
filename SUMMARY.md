@@ -4,7 +4,7 @@
 
 ## Products
 
-* [🔄 Exchange](products/pancakeswap-exchange/README.md)
+* [WagyuSwap Exchange](products/pancakeswap-exchange/README.md)
   * [Token Swaps](products/pancakeswap-exchange/trade.md)
   * [How to Trade](products/pancakeswap-exchange/trade-guide.md)
 * [Liquidity Pools](products/pancakeswap-pools/README.md)

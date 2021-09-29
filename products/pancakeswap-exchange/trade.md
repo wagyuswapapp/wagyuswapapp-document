@@ -2,15 +2,15 @@
 
 ![](../../.gitbook/assets/docs-masthead-18-.png)
 
-\*\*\*\*[**Token swaps**](https://exchange.pancakeswap.finance/#/swap) on PancakeSwap are a simple way to trade one BEP-20 token for another via automated liquidity pools.
+WagyuSwap token swaps are simply a mechanism to trade one VEP20 token for another by using our automated liquidity pools.
 
-![](../../.gitbook/assets/screenshot-2021-04-19-at-6.11.54-pm.png)
+![](../../.gitbook/assets/screenshot-2021-09-29-at-17.38.48.png)
 
-When you make a token swap \(trade\) on the exchange you will pay a **0.25% trading fee**, which is broken down as follows:
+When you swap a token on the exchange you will pay a **XXX% trading fee.** Here is how those fees are utilized:
 
-**0.17%** - Returned to Liquidity Pools in the form of a fee reward for liquidity providers.
+**XXX%** - Sent to liquidity providers.
 
-**0.03%** - Sent to the PancakeSwap Treasury.
+**XXX%** - Sent to the WagyuSwap Treasury.
 
-**0.05%** - Sent towards CAKE buyback and burn.
+**XXX%** - Used to buy WagyuSwap to burn.
 

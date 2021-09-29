@@ -1,24 +1,28 @@
-# 🔄 Exchange
+# WagyuSwap Exchange
 
 ![](../../.gitbook/assets/docs-masthead-19-.png)
 
-PancakeSwap is an Automated Market Maker \(AMM\), and the Exchange is at the heart of PancakeSwap. PancakeSwap is the leading AMM on the Binance Smart Chain, and as statistics tell, the most popular Decentralized Exchange \(DEX\) ever!
+WagyuSwap is an Automated Market Maker \(AMM\), the very first one on Velas Chain which has been clocked as the fastest blockchain in the world. The data doesn't lie and the data tells us that WagyuSwap is the fastest Decentralized Exchange \(DEX\) around!
 
-The PancakeSwap Exchange offers several features that support decentralized trading:
+Decentralized trading in the leading DEX of the Velas ecosystem means you can do several things:
 
-## Swapping/Trading
+## Swap & Trade tokens
 
-PancakeSwap lets users trade without the need to go through a Centralized Exchange. Everything you do on PancakeSwap is routed directly through your own wallet—no need to trust someone else with your coins!
+All without having to go through a Centralized Exchange \(ew gross\). All trades on WagyuSwap happen through interactions between our Exchange and your own wallet, so no KYC or invasions of privacy here. 
 
 ## Liquidity Pools
 
-You can only swap tokens on PancakeSwap if there is enough liquidity for those tokens. If nobody has added much liquidity for the token or tokens you want to swap, it will be difficult, expensive, or impossible to do so.
+But there's a catch! For trading to be possible there has to be enough liquidity in the trading pair of the tokens you want to swap. If nobody has added any liquidity for that pair, it will be impossible to do so.
 
-Providing liquidity will get you LP Tokens, which will earn you rewards in the form of trading fees for making sure there's always liquidity for the exchange to use.
+The solution is simple. Just add Liquidity to WagyuSwap. As a result of fixing these problems, Liquidity Providers will get LP tokens which will yield them a share of the trading fees on the platform.
 
 ## Yield Farming
 
-Yield farming lets users that are providing liquidity earn CAKE rewards by locking their LP tokens into a smart contract. The incentive is to balance out the risk of [impermanent loss](https://academy.binance.com/en/articles/impermanent-loss-explained) that comes along with locking in your liquidity.
+Liquidity Providers can earn $WAG  by locking their LP tokens into a smart contract. This added incentive means to address the risk of [impermanent loss](https://trustwallet.com/blog/what-is-impermanent-loss) that is part and parcel of providing liquidity in a DEX. \(Please remember to always do your own research.\)
+
+## Staking Pools
+
+Don't like the risk of becoming a LP? No problem. Our chefs have made Staking Pools available. These are simpler: you just stake $WAG to earn $WAG.
 
 
 
