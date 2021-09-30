@@ -6,29 +6,9 @@ description: Yield Farming on PancakeSwap is easy!
 
 ![](../../.gitbook/assets/docs-masthead%20%282%29%20%281%29.png)
 
-Yield Farming in Farms is a great way to earn CAKE rewards on PancakeSwap.
+### Let's get Farming!
 
-Unlike Syrup Pools, Farms require you to stake **two tokens** to get LP Tokens, which you then stake in the Farm to earn rewards. This lets you earn CAKE while still keeping a position in your other tokens!
-
-{% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
-
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
-{% endhint %}
-
-## Getting prepared
-
-Yield farming takes a little work to get set up.
-
-You’re going to need some "LP Tokens" to enter into a Farm with. Farms can only accept their own exact LP Token; for example, the CAKE-BNB Farm will only accept CAKE-BNB LP Tokens.
-
-To get the exact LP Token, you'll need to provide liquidity for that trading pair. So to get CAKE-BNB LP Tokens, you'll first have to provide liquidity for the CAKE-BNB pair.
-
-It may sound intimidating, but it's not too complicated. Let's go through step by step.
-
-### Finding your Farm
-
-Before you proceed, you'll want to choose a Farm that's right for you. [Visit the Farms page](https://pancakeswap.finance/farms) and you’ll see a list of available Farms.
+After you provide Liquidity on WagyuSwap, you can take your LP tokens and stake them to get yourself some extra $WAG
 
 ![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp_CqM)
 

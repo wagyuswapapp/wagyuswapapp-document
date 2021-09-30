@@ -2,39 +2,21 @@
 
 ![](../../.gitbook/assets/docs-masthead-1-%20%282%29.png)
 
-Yield Farms allow users to earn CAKE while supporting PancakeSwap by staking LP Tokens.
+## Yield Farming
 
-Check out our [How to Use Farms guide](https://docs.pancakeswap.finance/products/yield-farming/how-to-use-farms) to get started with farming.
+Liquidity Providers can earn $WAG  by locking their LP tokens into a smart contract. This added incentive means to address the risk of [impermanent loss](https://trustwallet.com/blog/what-is-impermanent-loss) that is part and parcel of providing liquidity in a DEX. \(Please remember to always do your own research.\)
 
-Learn [how to find Farm smart contracts](./)
+## Calculating the Rewards
 
-{% hint style="warning" %}
-Yield farming can give better rewards than Syrup Pools, but it comes with a risk of **Impermanent Loss**. It’s not as scary as it sounds, but it is worth learning about the concept before you get started.
+The WagyuSwap Yield Farm APR calculations include  the rewards earned through being a liquidity provider and the rewards earned through staking LP Tokens.
 
-Check out this great [article about Impermanent Loss ](https://academy.binance.com/en/articles/impermanent-loss-explained)from Binance Academy to learn more.
-{% endhint %}
+The rewards are generated per block and distributed to each user based on their deposited amount.
 
-## Reward calculations
+For example, in the WAG-VLX farming pool, 1 $WAG is generated as the reward per block.
 
-Yield Farm APR calculation includes both the rewards earned through providing liquidity and rewards earned staking LP Tokens in the Farm.
+After 100 blocks are generated on the Velas chain, 100 $WAG are distributed to users based both on the amount they deposited and how long they deposited for.
 
-Previously, rewards earned by LP Token-holders generated from trading fees were not included in Farm APR calculations. APR calculations now include these rewards, and better reflect the expected APR for Farm pairs.
+If Gordon deposited 10 WAG-VLX LP and Heston deposited 15 WAG-VLX LP, of the 100 $WAG distributed as rewards, Gordon gets 40 WAG and Heston gets 60 WAG.
 
-Below is a basic explanation of how APR is calculated.
-
-![](https://lh4.googleusercontent.com/rJswz2qvCNTcODcClHxqlLpanSLsfbGtVw75MMPicBN1iKTKCuEYlPuoFAqskoy24DB9JBmATWb8dk3WmY1_BFDZoS94sWTBZhZrcnG711rC8ltDXPR3gdl8D50eWq_cfiBriKcl)
-
-In the image above of the WBNB/BUSD pair, we see these values:
-
-**Liquidity:** $387.42M  
-**Volume 24H:** $96.97M  
-**Volume 7D:** 709.73M
-
-To calculate the APR, first we take the 24hour volume, $96,970,000, and calculate the fee-share of LP-holders, 0.17% \[**$96,970,000\*0.17/100 = $164,849\]**.
-
-Next, we estimate the yearly fees based on the 24h volume \[**$164,849\*365 = $60,169,885**\].
-
-Now we can calculate the fee APR with yearly fees divided by liquidity \[\(**$60,169,885/$387,420,000\)\*100 = 15.53%**\]
-
-With the fee APR, we can add the fee APR \(15.53%\) and the Farm staking APR \(20.08%\) to get the new total APR \[**15.53%+20.08% = 35.61%**\].
+As more users lock more LP tokens, the APR will drop according to the proportion in which these new tokens are added.
 

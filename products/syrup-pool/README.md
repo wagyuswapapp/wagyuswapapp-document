@@ -2,10 +2,9 @@
 
 ![Ahh, delicious](../../.gitbook/assets/masthead%20%281%29.png)
 
-## **What are Syrup Pools?**
+## **What are Staking Pools?**
 
-Syrup Pools are the simplest way to earn free tokens on PancakeSwap.  
-Stake CAKE, earn free tokens. It’s really that easy.
+Staking pools are the easiest way to let your tokens earn for you. And you bet our chefs have made them available for you in the most convenient possible way:
 
-Some special pools let you stake other tokens besides CAKE, too!
+All you have to do is just stake $WAG to earn more $WAG.
 
