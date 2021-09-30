@@ -16,7 +16,7 @@ The funds deposited will be redeemable at any time. All you need to do is remove
 
 When traders use your liquidity pool, you earn a share of the fees.
 
-If your pair is traded on WagyuSwap, the trader pays aXX% fee, **of which XX%** is subsequently added to the respective Liquidity Pool.
+If your pair is traded on WagyuSwap, the trader pays a 0.25% fee, of which 0.17**%** is subsequently added to the respective Liquidity Pool.
 
-For added gains, you can also farm your LP tokens for some sizzling yield on our Farms all while still earning your XX% trading fee.
+For added gains, you can also farm your LP tokens for some sizzling yield on our Farms all while still earning your 0.17% trading fee.
 

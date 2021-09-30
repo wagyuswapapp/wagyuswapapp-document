@@ -2,7 +2,7 @@
 description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 ---
 
-# How to Stake in Syrup Pools
+# How to Stake
 
 ![](../../.gitbook/assets/docs-masthead-15-.png)
 

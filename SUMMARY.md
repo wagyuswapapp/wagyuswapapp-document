@@ -12,7 +12,7 @@
 * [🚜 Yield Farming](products/yield-farming/README.md)
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
 * [🥩 Staking Pools](products/syrup-pool/README.md)
-  * [How to Stake in Syrup Pools](products/syrup-pool/syrup-pool-guide.md)
+  * [How to Stake](products/syrup-pool/syrup-pool-guide.md)
 
 ---
 

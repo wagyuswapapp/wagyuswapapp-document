@@ -4,83 +4,43 @@
 
 **How to add liquidity**
 
-To provide liquidity, you’ll need to commit an amount of any token pair you like. Your lowest value \(in USD\) of the two tokens will be the limit to the liquidity you can provide.
+You’ll need to add both tokens of the trading pair you'd like to provide liquidity for, with the limit to the liquidity you can provide being the lowest USD value of the two tokens.
 
-You can easily trade for any tokens you need. Visit our [How to Trade on PancakeSwap](https://docs.pancakeswap.finance/get-started/trade-guide) guide if you need to.
+Feel free to use our exchange to get your desired tokens. Once you have them, follow these steps:
 
-In this example, we will add liquidity using BNB and CAKE.
+Go on the Liquidity page and click the "Add Liquidity" button.
 
-1. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool).
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.16.14.png)
 
-![](https://lh3.googleusercontent.com/hfW_TUaVduHQ2dKUPuZVq8jX20QPNQZXHbcHM1uRDzAaS5_c3oaNb75UfEECpoGj4dLsarnPuwCiezy7rWu6EZdGXFk48G1dR7fVA93U5LKe_o-YBHlMgzH7BNGlOb7f7yRNwhEm)
+Hit ‘Select a currency’ for both fields, pick the tokens you'd like to add liquidity for, and the amount for one in the relevant "Input" field. The other amount will appear instantly.
 
-1. Click the **Add Liquidity** button.
+After you click the "Approve" button, your wallet will require you to confirm your approval. When the "Supply" button appears, click it.
 
-![](https://lh6.googleusercontent.com/IeTQOnHr8wsut91ndR7uQ8nkeJk_ZMOP5S4OsblPPi-lylV1CbFurUD4Y6Zrio7nJ65JDdNS3MyXX-bVX5oTEMwGtTD_QTsSpJa_lK0Etp5yHew5k3aSbbOa9t5nv-tTF8g4n6FI)
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.32.39.png)
 
-1. For the top Input, leave BNB as it is.
+If you're happy with the rewards displayed on the window that appears, hit "Confirm Supply" and confirm the action in your wallet.
 
-![](https://lh6.googleusercontent.com/7UfInV4nZgm0mL3Vnxl2cjV8KaN9m6yfv-Uc3kenjoOJPBVo0pACw1wS9cAUNnQ_hgzzX_AsAhad8Va4rlsR95b3WS1tTAMUgiLnxCmLjk3PpXm0JXPqvE6rVbr5AWQinM2_ocNX)
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.34.51.png)
 
-1. For the bottom input, click ‘Select a currency’ and pick CAKE.
+You'll then see your balance of LP tokens at the bottom of the page.
 
-![](https://lh5.googleusercontent.com/r8RXCF8oe-SNr1JGqB7kkKk-piDeRuaCfWf9mdQgyc0dERMwJln1H5qQzpUWW5vtyIh5WyYN6AvLNv0MAcSlwB8tkD2NS1WJdcaXQ1K1ce2pST0RIoYbEURFUWJEt_CXZyLqNEmz)
-
-1. Enter an amount on one of the tokens under “Input”. The other will calculate automatically.
-
-![](https://lh6.googleusercontent.com/V3WD5xi7-r69iUMgVMyPzEk9TZLPm2ULGh6GRnfMjpVF69woVtu8Oje2UXnR1GGfD53HfMIrBCGmkHnqjK3xd1JErQvd1_LM-vdqVnYz3PidSKKVgCLMi7B4wCW7MTKMeT8VFU7G)
-
-\(If your balance is too low on one pair enter a lower amount.\)
-
-![](https://lh4.googleusercontent.com/o0NqkRyK2OPYADQmFHBJBkUvHrjxqftEHNrN7m2qQiXJYkdMAZhU27590R7djMwXzZZtnwZ1M0KUZqBbKpNlw7p9xN4TXKcAP0sswIQ2sJPiWBSGcKFZH7sOTZKE-vttYdIU0aQc)
-
-1. Click the **Approve CAKE** button. Your wallet will ask you to confirm the action.
-
-![](https://lh5.googleusercontent.com/wcvUd1a-8NWhODzy_dHmLZ2OouC6DlHONRGRNUScEf9gSJeyf70aXOyQK0gFaI_wwXjXhifeYAHTbfX5B7VoIcVGCclZidnT-8ZkCfAzBVJMGwC0_dHiNnXIwcwSEvE_sSzzPARO)
-
-1. The **Supply** button will light up. Click it.
-
-![](https://lh6.googleusercontent.com/wkQFYbPP7MQBmO-EYEUaXESs1ID5NWL9950OL9ouFyIdoR6COLtkFc9-VHirRe-RpavHjG9zrPRguZej2jmymP1lKGFprWXwkKTgyxbvDgrKKDwFfCS7GTzJTMkf1XQB7yCOhYDS)
-
-1. A window will appear saying how much you will receive. Click the **Confirm Supply** button. Your wallet will ask you to confirm the action.
-
-![](https://lh4.googleusercontent.com/EOB0N6Vbr5clnlb_4yb0QsPOSLkvRXapUBPUaA5woYQaENgAMZIFRT41eTQrg3f5El73BPH3kDyzGSspW3pG5txeSj6BBMuiJnxulIwteqdpczKyaVS1Ig18sViRM4AIfzBUCz6k)
-
-1. After a short wait you will see your LP Token balance at the bottom of the page.
-
-You can repeat the steps above to add more liquidity at any time.
+Want to add more liquidity? Just repeat the steps above!
 
 ## **Removing liquidity**
 
-To remove liquidity.
+Go on the Liquidity page and click on your pair under “Your Liquidity”
 
-1. Visit the [Liquidity page](https://exchange.pancakeswap.finance/#/pool)**.**
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.36.57.png)
 
-![](https://lh5.googleusercontent.com/EOnjKgPBQsZN02lkAYQyFSMh2MLoaSWF6UkTGkFBccfjNR4CEmxawgUYf20byE87UtxmQ9bjFnFKRpyuNvaLqPClanU70HRUMGL7RcXoARlHQj-wGbkFuGTNSqjSk5plmJIJWXJB)
+After you hit "Remove" a new window will appear, where you can choose the & you want to remove. Once you're satisfied that you've made the right choice, hit "Approve" and confirm the action in your wallet.
 
-1. Click on your pair under “Your Liquidity”.
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.39.41.png)
 
-![](https://lh6.googleusercontent.com/XUPps1DelWK9jYOQO5RzbgkBdwxmZzywAyfA6jFXKv02ntr9Oy9zPMkzJSS7k1Vlh1evtmnhnhpUGgEo0KafbSKgABjzDesYacTMMlHTCgoaD-honhzfScZymPyka_SWf6517acV)
+After double-checking the amount displayed in the window that pops up, click "Confirm" and approve the action in your wallet.
 
-1. Click **Remove**. A new window will appear.
+![](../../.gitbook/assets/screenshot-2021-09-30-at-16.44.41.png)
 
-![](https://lh5.googleusercontent.com/zjxMZAbQyLMP4mpb4f6OmRPra7VeLgHWu_d_N9-p9K5e0S8B1QBzyKdEaAyv1LohGLiXwKVoGcXqSDehULzOACm2ojSL9JiRwyBZ-DOLOSpzfwk5mtXrQZjhPu2wRDBg8ER_Y3jm)
+You'll then see your balance of LP tokens at the bottom of the page.
 
-1. Use the buttons or slider to choose what percent to remove. Choose **MAX** to remove everything.
 
-![](https://lh6.googleusercontent.com/nABRYZMx2P75tzoCOvA6ZnxkuU_NsN-cjEGgX4wGfmAm5nuIEd3aP3H9_Y_S4gUuV7qmnaVhmorn6cg47uSvZEXWoBXY6xsijFxC5EcxacRI2MB1HU99nvCuh2m09yeWE_6bRNvr)
-
-1. Click **Approve**. Your wallet will ask you to confirm the action**.**
-
-![](https://lh6.googleusercontent.com/jwal-2cBEhwaUShjbG8EGJ6gN2zMfLu7qV2kfCd9D0s0Q-B3ogcIxYecXqMAfmirjlxsyvXnI9Z5fiqZZTwDe5iAKiwSW5IclaZJe-GDmUWyzwcxTZ_qg-QJ7B2X6wsxbzpJVT4N)
-
-1. The **Remove** button will light up. Click it.
-
-![](https://lh3.googleusercontent.com/vs0mllfFUyTOqB-a4tQ0Rx-DbrUpcG71yIBI_CEX1Qe1xbXMnr-jkECYgW8PD6qW4P09zUtkaaddu35aneoBqrHwuDklK9QMZSnjSMnjNKs_mcwqNNjPUuwe6XQqy-15eO62M5nV)
-
-1. A window will appear saying what you will receive. Click **Confirm**. Your wallet will ask you to confirm the action.
-
-![](https://lh4.googleusercontent.com/Hj5xgsm5NfgmvGB4dsY8K2Zdtt5YTF9ZBxoi_BS4e9OkD_j4KB_QcOrxceHdb4oJ6v0gpr7-BIeCOmQs3heGc2y5pRHyuMnBjrMNelDoijDVZCdv1G0U677VG7LlTTOjEaFF9wZ3)
-
-1. After a short wait you will see your new LP Token balance at the bottom of the page.  
 
