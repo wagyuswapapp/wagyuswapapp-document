@@ -4,7 +4,7 @@ description: Grab your prime cut of the next generation of decentralized exchang
 
 # Welcome to WagyuSwap
 
-![](.gitbook/assets/masthead-twitter-3-%20%281%29%20%281%29.png)
+![](.gitbook/assets/1.-wagyuswap.jpg)
 
 {% hint style="success" %}
 #### With WagyuSwap you can trade, stake, and farm tokens with all the _accoutrements_ you've come to expect from a top DeFi platform.

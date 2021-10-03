@@ -1,6 +1,6 @@
 # How to Trade
 
-![](../../.gitbook/assets/docs-masthead-5-.png)
+![](../../.gitbook/assets/4.how-to-trade-on-wagyuswap.jpg)
 
 ## Getting set up to trade
 

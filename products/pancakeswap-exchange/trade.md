@@ -1,6 +1,6 @@
 # Token Swaps
 
-![](../../.gitbook/assets/docs-masthead-18-.png)
+![](../../.gitbook/assets/3.swap-_-trade.jpg)
 
 WagyuSwap token swaps are simply a mechanism to trade one VEP20 token for another by using our automated liquidity pools.
 

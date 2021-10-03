@@ -1,6 +1,6 @@
 # 🔁 WagyuSwap Exchange
 
-![](../../.gitbook/assets/docs-masthead-19-.png)
+![](../../.gitbook/assets/2.wagyuswap-exchange.jpg)
 
 WagyuSwap is an Automated Market Maker \(AMM\), the very first one on Velas Chain which has been clocked as the fastest blockchain in the world. The data doesn't lie and the data tells us that WagyuSwap is the fastest Decentralized Exchange \(DEX\) around!
 

@@ -1,6 +1,6 @@
 # 🏊 Liquidity Pools
 
-![](../../.gitbook/assets/docs-masthead-4-%20%281%29.png)
+![](../../.gitbook/assets/6.-new-wagyuswap-liquidity.jpeg)
 
 When you add  tokens to a WagyuSwap Liquidity Pool you will receive LP tokens that will allow you to share in the fees.
 
