@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/docs-masthead-2-.png)
 
+
+
 **How to add liquidity**
 
 You’ll need to add both tokens of the trading pair you'd like to provide liquidity for, with the limit to the liquidity you can provide being the lowest USD value of the two tokens.

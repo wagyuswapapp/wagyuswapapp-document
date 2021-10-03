@@ -1,6 +1,6 @@
 # 🚜 Yield Farming
 
-![](../../.gitbook/assets/docs-masthead-1-%20%282%29.png)
+![](../../.gitbook/assets/7.-yield-farms.jpg)
 
 ## Yield Farming
 

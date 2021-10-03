@@ -4,7 +4,7 @@ description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 
 # How to Stake
 
-![](../../.gitbook/assets/docs-masthead-15-.png)
+![](../../.gitbook/assets/10.-how-to-stake.jpg)
 
 Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
 

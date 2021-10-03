@@ -1,6 +1,6 @@
 # 🥩 Staking Pools
 
-![Ahh, delicious](../../.gitbook/assets/masthead%20%281%29.png)
+![](../../.gitbook/assets/9.sizzle-pools.jpeg)
 
 ## **What are Staking Pools?**
 

@@ -4,7 +4,7 @@ description: Yield Farming on PancakeSwap is easy!
 
 # How to Use Farms
 
-![](../../.gitbook/assets/docs-masthead%20%282%29%20%281%29.png)
+![](../../.gitbook/assets/8.-how-to-use-yield-farms.jpg)
 
 ### Let's get Farming!
 
