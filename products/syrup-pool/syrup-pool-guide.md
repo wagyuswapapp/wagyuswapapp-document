@@ -6,65 +6,49 @@ description: 'Syrup Pools: the simplest way to earn on PancakeSwap'
 
 ![](../../.gitbook/assets/10.-how-to-stake.jpg)
 
-Staking in [Syrup Pools](https://docs.pancakeswap.finance/products/syrup-pool) lets you earn CAKE or other tokens while you sleep!
+If you think Yield Farming is too complicated and you'd rather go with something simpler, then Sizzle Pools are perfect for you.
 
-It's simpler than farming with PancakeSwap's Yield Farms, because unlike the Farms, you only need to stake **one token** to start earning: usually CAKE.
+Follow the instructions below to learn how you can make your $SWAG work for you.
 
-## **Getting started with Syrup Pool staking**
+## **Choose your Sizzle Pool**
 
-1. Go to the Pools page [here](https://pancakeswap.finance/pools).
+After ensuring your wallet is connected and you've picked the right network, choose which Sizzle Pool you'd like to stake your $WAG in.
 
-![](../../.gitbook/assets/image%20%28105%29.png)
+Let's look at our first two pools before moving on to the process of staking.
 
-1. Connect to your Binance Smart Chain-compatible wallet by clicking the **Connect** button \(top right-hand side\).
-2. Click **Unlock Wallet**.
+How are **Auto $WAG** and **Manual $WAG** different? It's simple. 
 
-![](../../.gitbook/assets/image%20%28128%29.png)
+The **Auto $WAG** pool works like a Vault where the users' rewards are re-staked automatically as they're accrued to give you instant compounding.
 
-1. Choose which Syrup Pool you want to stake in.
+The **Manual $WAG** pool works exactly the same but, as its name indicates, the users have to manually re-stake the rewards they harvest for them to compound.
 
-![](../../.gitbook/assets/image%20%2894%29.png)
+All Sizzle Pools our Chefs choose to add in the future will go through the following process.
 
-**Auto CAKE** automatically compounds your rewards: any CAKE you earn will be harvested and re-invested in the same pool for you.
+After you have chosen your preferred Pool, click on it and hit the "Expand" button before confirming the action in your wallet.
 
-**Manual CAKE** doesn’t automatically compound like Auto CAKE. You’ll need to harvest and compound your earnings manually.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-16.38.53.png)
 
-Other Syrup Pools let you stake your CAKE to earn dozens of other cool tokens. Make sure you check them out.
+By clicking the "Stake" button that now appears you will open the staking menu.
 
-1. Once you choose a pool, click the **Enable** button. Your wallet will ask you to confirm the action.
-2. The Enable button should now be replaced with **Stake**. Click the button to bring up the staking menu.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-16.40.18.png)
 
-![](../../.gitbook/assets/image%20%2880%29.png)
+Type in your chosen amount or slide the knife to choose how much $WAG you want to stake. Then, hit "Confirm" and do the same on your wallet.
 
-1. Type in an amount or slide the rabbit to choose how much CAKE you want to stake.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-16.40.58.png)
 
-![](../../.gitbook/assets/image%20%2818%29.png)
+You have now staked your $WAG! 
 
-1. Click **Confirm**. Your wallet will ask you to confirm the action.
+### **Adding and removing $WAG**
 
-![](../../.gitbook/assets/image%20%2822%29%20%281%29.png)
+Adding and removing $WAG to a pool is incredibly easy. Just click on your chosen pool and click on "+" or "-" depending on what you'd like to do.
 
-1. The Confirm button will change to **"**Confirming", then once the transaction is successful, you’ll see your staked amount change and the button will change again.
-2. You should now be able to see details on your Syrup Pool. Auto CAKE will show a countdown until the unstaking fee ends. The other pools will show a **Collect** button to claim your staking rewards into your wallet.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-16.48.21.png)
 
-![](../../.gitbook/assets/image%20%2859%29%20%281%29.png)
+Please note that unstaking from the Auto $WAG pool has a fee of 0.1% if you unstake  72 hours into having staked it. 
 
-### **Adding and removing CAKE from a pool**
+The staking menu will appear. After you have chosen how much you'd like to add or remove, click on "Confirm" and confirm that action in your wallet as well
 
-You can easily add more CAKE to a Syrup Pool, or move some CAKE to a more profitable pool. Here’s how you can move your staked CAKE.
+That's it. You are now a master of WagyuSwap Sizzle Pools. 
 
-1. Click the **-** to take some CAKE out of a pool, or the **+** to add more to the pool.
-
-![](../../.gitbook/assets/image%20%2876%29.png)
-
-Please note that unstaking from the Auto CAKE pool has a fee of 0.1% if you unstake within 72 hours.
-
-1. A window will open. If you clicked the **+**, choose the amount you would like to add to the pool. If you clicked the **-**, choose the amount to take out of the pool.
-
-![](../../.gitbook/assets/image%20%28139%29.png)
-
-1. Click **Confirm**.
-2. After a little wait, you'll be able to see your new amount of staked tokens.
-
-![](../../.gitbook/assets/image%20%2888%29.png)
+Enjoy the meal!
 

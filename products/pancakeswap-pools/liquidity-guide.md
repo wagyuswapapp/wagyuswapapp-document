@@ -1,8 +1,6 @@
 # How to Add & Remove Liquidity
 
-![](../../.gitbook/assets/docs-masthead-2-.png)
-
-
+![](../../.gitbook/assets/how-to-add-and-remove-liquidity.jpeg)
 
 **How to add liquidity**
 
@@ -36,7 +34,7 @@ Go on the Liquidity page and click on your pair under “Your Liquidity”
 
 After you hit "Remove" a new window will appear, where you can choose the & you want to remove. Once you're satisfied that you've made the right choice, hit "Approve" and confirm the action in your wallet.
 
-![](../../.gitbook/assets/screenshot-2021-09-30-at-16.39.41.png)
+![](../../.gitbook/assets/screenshot-2021-10-03-at-13.45.07.png)
 
 After double-checking the amount displayed in the window that pops up, click "Confirm" and approve the action in your wallet.
 

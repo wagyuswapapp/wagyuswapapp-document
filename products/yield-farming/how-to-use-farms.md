@@ -8,102 +8,59 @@ description: Yield Farming on PancakeSwap is easy!
 
 ### Let's get Farming!
 
-After you provide Liquidity on WagyuSwap, you can take your LP tokens and stake them to get yourself some extra $WAG
-
-![](https://lh5.googleusercontent.com/oxanafasV3-ifV5DlpPn1enB42kOdyZPOn1VJbtGts_MTnyaZ9CK0lqYn9CFuZyQuUUqhLr6mIvzPfLFQXN3zrk4tppm_Y2ESkAWF29sft9gAMgweJqceauttEoJDIhv7Usp_CqM)
-
-CAKE-BNB and BUSD-BNB are pinned to the top of the list with the default **Hot** sorting. After the pinned Farms, Hot will show other Farms in order of how new they are.
-
-You can choose another sorting option if you like, such as by **APR** for the Farms with the highest reward rate currently.
-
-When you find a Farm that you'd like to use, note down the trading pair, e.g. BNB-CAKE in case you need it later.
+After you provide Liquidity on WagyuSwap, you can take your LP tokens and stake them to get yourself some extra $WAG.
 
 ### Providing liquidity to get LP Tokens
 
-Now that you've found a Farm to stake in, you will need to add liquidity to get your LP Tokens.
+After you select the farm you want to use – either by APR or simply because you want to hold the tokens in question – you will need to add liquidity to get your LP Tokens.
 
-1. Click on the row of the Farm you've chosen from the list. It will open to show more details.
-2. On the left, you'll see some links. Click the **Get \(your pair\) LP** link.
+First, click on the Farm you've chosen to open up its window. If you don't already have the required LP token, click on "Get \(token pair\) LP" which will open up the "Add Liquidity" page.
 
-![](../../.gitbook/assets/image%20%28153%29%20%281%29.png)
+Luckily for you, we have a guide for that too.
 
-This will open the Add Liquidity page for your Farm's pair. We have a [guide to adding liquidity](https://docs.pancakeswap.finance/get-started/liquidity-guide) you can follow to get your LP Tokens.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-14.34.51.png)
 
-## Putting your LP Tokens into a farm
+## Putting your LP Tokens into a Farm
 
-Now that you have your LP Tokens, you’re ready to start staking them in a Farm and earning rewards!
+You are now ready to farm your LP tokens.
 
-### Putting your LP Tokens into the Farm
+Go to your chosen farm, click on it to expand it and hit the "Enable" button, followed by confirmation of that action in your wallet.
 
-1. Go back to the [Farms page](https://pancakeswap.finance/farms) and locate your Farm. Click anywhere on the row showing your pair. It will expand to show more details.
+Wait until that button turns into "Stake LP" and click on it.
 
-![](https://lh4.googleusercontent.com/DbdKZLxqqILLzovnQ752Ed8VFtx3dTh-tZSCfOmQ2BZG7M6hvOLXDzUOYpGFJgNeIbOXBxyryvhhAtXXTppwtOev_lUqZWikbxLQVJy6kqDz2y3Q360YAVHdLlNkm6yfdNBYi7tQ)
+![](../../.gitbook/assets/screenshot-2021-10-03-at-14.40.06.png)
 
-When you’re ready, click the **Enable** button and confirm your action in your wallet.
+Type in the exact amount of LP tokens you want to stake or hit "Max" if you want to stake them all. At that point, click on "Confirm" and then follow through with that confirmation on your wallet.  
 
-1. After a short wait, the Enable button will change to **Stake LP**. Click it and a new window will appear.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-14.43.01.png)
 
-![](https://lh4.googleusercontent.com/Mpwe28bYv8e3EcbtGRq8ni57u_UlESPz_nOqdTPXB-RjZ8ThcgWvUWI8nOGbOgo5d-Mvj7_a6J_POtIftVWCCXdDCf3RVhcpq7OYDQOuhFtSLNiupMQaaNQLmgSo1aJMWky-F9Jc)
+You will then be able to see both your staked LP tokens as well as how much $WAG they've earned you.
 
-Type the amount of LP Tokens you would like to farm with into the field, or just click **Max** to use all of your LP Tokens.
+If you decide you'd like to add more tokens, just repeat the process described above. 
 
-1. When you have the amount entered, the **Confirm** button will light up. Click it. Your wallet will ask you to confirm your action.
+## Removing your LP tokens from a Farm
 
-![](https://lh3.googleusercontent.com/s_699JBPT7pxQXK1sO0tvkyEawbhEIZcd_QFd8VGq9glynryO1YpNIjoa4s-nUOxiVuEU-DOTjs3NvSAn6_jfp-ONULDJczNeubeYU8bqlWtpAhkunlG0L184CoxbaDZVZ8t16C3)
+Go to the Farms page and click on the Farm you have LP tokens in. Once it expands, click on the "-" button to remove your LP tokens.
 
-1. After a short wait, the window will close, and you will see your new staked LP Token balance in the details.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-15.33.00.png)
 
-![](https://lh3.googleusercontent.com/LatVJszaNP2RwYTf-mNod7AmYa5-y1FafJTnY2I4Nk5tnfR_7d2b44gwRJqMUGSQy8IKS0TAxmUL0LvUQ7urvBNrsPGc-UWay3WRVDeRCQf_vIM15j_FTdXfXb6u4b1S57jExq7F)
+When the window appears, choose how many tokens you'd like to remove, hitting "Max" if you'd like to remove them all. Then, hit "Confirm" and confirm the action in your wallet too.
 
-## Adding or removing LP Tokens from a Farm
+![](../../.gitbook/assets/screenshot-2021-10-03-at-15.34.05.png)
 
-You may decide you would like to add more LP Tokens to a Farm at a later date, or to take some out of a Farm. You can do this very easily whenever you'd like.
+Once your LP tokens have been unstaked, the $WAG rewards you've accrued will also have been automatically harvested and will appear in your wallet.
 
-1. Return to the [Yield Farms page](https://pancakeswap.finance/farms). At the top of the page you'll see a **Staked only** toggle. Click the toggle.
+## Harvesting your farming rewards
 
-![](../../.gitbook/assets/image%20%28147%29.png)
+As your LP tokens earn you $WAG, you can choose how often you'd like to harvest them – and what you'd like to do with your new tokens.
 
-You should now only see the pairs you have LP Tokens in on the list, making it easier to find your Farm.
+Harvesting your $WAG is pretty simple. Just go to the relevant Farm where you have staked your LP tokens, click on it and once it expands, hit "Harvest." 
 
-1. Find the Farm you have LP Tokens in, and click the row to view details. You will see a **-** and **+** button on the right-hand side. Click **-** to remove LP Tokens, or **+** to add more LP Tokens.
+![](../../.gitbook/assets/screenshot-2021-10-03-at-15.38.14.png)
 
-![](../../.gitbook/assets/image%20%28102%29%20%282%29%20%282%29.png)
+At this point you'll have to confirm the action in your wallet. Remember that each time you harvest will incur a transaction fee, which although incredibly low, is still a cost to bear in mind.
 
-1. A window will open that looks like the one you used earlier to first stake your LP Tokens. Like last time, type the amount you would like to unstake/stake, or click **Max** to remove/add all available LP Tokens.
+Don't know what to do with your freshly harvest $WAG? 
 
-![](../../.gitbook/assets/image%20%2846%29.png)
-
-1. Make sure your information is correct. When you are ready, click the **Confirm** button and confirm the action in your wallet.
-2. After a short wait, your new balance will show in the details section of your LP Token pair. If you've unstaked your LP Tokens, any unharvested rewards you had will automatically have been collected.
-
-## Collecting your farming rewards
-
-Farming will bring you CAKE rewards over time. You can collect these rewards and use them to get more LP Tokens, stake them in Syrup Pools, use them to play Lottery, or anything else you’d like.
-
-### Returning to your Farm to Harvest
-
-You can harvest your Farm and Syrup Pool rewards together from the Home page. If you'd like to collect your farming rewards only, follow along.
-
-To collect your rewards, you’ll need to visit your chosen Farm and collect the CAKE waiting for you.
-
-1. Return to the Farms page [here](https://pancakeswap.finance/farms).
-2. Find the Farm you staked your LP Tokens in, and click the row to view details. You should see an estimate of your rewards under “Cake earned”.
-
-![](https://lh5.googleusercontent.com/nBfqNjKcuqvj-LhW76CPmV2pyGS-SwGsf1U_9top7OS7wnl24xQRzudcOgZbQvNc0P8rQetAU9_52mB9TatXqyMcdCRyMk0nRzel8BqWPGNyiTBGB8Z-c3LcHTJVXaAb5CWyD5J4)
-
-1. Click the **Harvest** button and confirm the action in your wallet. After a short wait, the CAKE will be claimed to your wallet for you to use as you like.
-
-### How often should I harvest my rewards?
-
-How often you harvest your rewards is up to you, but it does help to remember that there is a small fee involved in harvesting.
-
-You can see this fee in your wallet when confirming after clicking **Harvest**.
-
-![](../../.gitbook/assets/image%20%2860%29.png)
-
-This shows the fee for harvesting as it appears in the MetaMask wallet. Different wallets will show the information a little differently. Consider leaving your rewards to grow for a while so you pay fees less often.
-
-And that's all there is to it! You may also want to look at [how to use PancakeSwap Syrup Pools](https://docs.pancakeswap.finance/get-started/syrup-pool-guide) to earn rewards.
-
-Happy farming!
+Then read on, dear budding Chef, as we're about to show you how you put your $WAG to work for you in one of our sizzling staking pools.
 
