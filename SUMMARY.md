@@ -13,8 +13,10 @@
   * [How to Use Farms](products/yield-farming/how-to-use-farms.md)
 * [🥩 Sizzle Pools](products/syrup-pool/README.md)
   * [How to Stake](products/syrup-pool/syrup-pool-guide.md)
+* [🎰 WagyuSwap Lottery](products/wagyuswap-lottery/README.md)
+  * [How to Play WagyuSwap Lottery](products/wagyuswap-lottery/how-to-play-wagyuswap-lottery.md)
+  * [FAQ - WagyuSwap Lottery](products/wagyuswap-lottery/faq-wagyuswap-lottery.md)
 
----
+***
 
 * [Roadmap](roadmap.md)
-
