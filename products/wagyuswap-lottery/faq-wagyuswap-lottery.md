@@ -30,7 +30,7 @@ Once you have purchased a Lottery ticket, you are UNABLE to convert back it to W
 
 ## **If I win, do I need to manually claim the prize?**
 
-All prizes need to be claimed. You can do this by clicking the ‘Get the bill’ button under 'Are you a winner?'
+All prizes need to be claimed. You can do this by clicking the ‘Check Now’ button under 'Are you a winner?'
 
 ## **How often is the lottery?**
 
