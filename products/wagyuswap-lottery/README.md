@@ -4,7 +4,7 @@
 
 Participating in the WagyuSawp Lottery gives you a chance to win HUGE prizes!\
 \
-It's straightforward while being completely fair, plus you can enter as often as you like – Well, as long as you get that
+It's straightforward while being completely fair, plus you can enter as often as you like – Well, as long as you got that sizzling hot WAG to purchase tickets.
 
 ## S**pecifics**
 
