@@ -38,16 +38,6 @@ There is a time between rounds where purchasing tickets isn't possible. Just che
 The discount starts as soon as you purchase 2 or more tickets, and the discount will continue to scale all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
 
 4\. When you're happy with the number of tickets you want to buy, click 'confirm' and confirm your action in your wallet.1. On the [WagyuSwap Lottery page](./), click the 'Buy Tickets' button at the top of the page
-
-There is a time between rounds where purchasing tickets isn't possible. Just check back after the countdown if that's the case.
-
-2\. A window will open letting you select how many tickets to purchase. Select the amount of tickets you’d like to purchase into the field
-
-3\. Don't forget, the more tickets you purchase, the greater the discount you receive. For more info, check out [Ticket Costs & Discounts](./#ticket-costs-and-discounts)**.**
-
-The discount starts as soon as you purchase 2 or more tickets, and the discount will continue to scale all the way to 100 tickets where you will save almost 5% on your purchase (4.95%).
-
-4\. When you're happy with the number of tickets you want to buy, click 'confirm' and confirm your action in your wallet.
 {% endtab %}
 
 {% tab title="Manual ticket numbers" %}
