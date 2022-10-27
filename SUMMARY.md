@@ -16,6 +16,7 @@
 * [🎰 WagyuSwap Lottery](products/wagyuswap-lottery/README.md)
   * [How to Play WagyuSwap Lottery](products/wagyuswap-lottery/how-to-play-wagyuswap-lottery.md)
   * [FAQ - WagyuSwap Lottery](products/wagyuswap-lottery/faq-wagyuswap-lottery.md)
+* [⏭ Migration](products/migration.md)
 
 ***
 
